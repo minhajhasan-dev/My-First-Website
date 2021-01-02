@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    font-family: operator mono lig;
+    align-items: center;
+}
+#header{
+    font-family: "operator mono lig";   
+    background-color: #6047EC;
+    text-align: center;
+    padding: 15px;
+    font-size: 25px;
+    color: white;
+}
+.post{
+    width: 47%;
+    border: 7px solid#665e94;
+    border-radius: 10px;
+    margin-top: 12px;
+    padding: 7px;
+    background-color: #17242c;
+    color: white;
+    float: left;
+    margin-left: 25px;
+    text-align: center;
+}
